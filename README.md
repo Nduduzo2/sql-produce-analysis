@@ -54,8 +54,13 @@ Five tables, 25 customers, 150 orders and 359 order lines covering one year (202
 
 ## Screenshots
 
-<!-- Add your own screenshots here. Example: -->
-<!-- ![Revenue by category](screenshots/revenue-by-category.png) -->
+![Revenue by category](screenshots/revenue_by_category.png)
+
+![Top 5 customers](screenshots/revenue_by_customer.png)
+
+![Monthly revenue](screenshots/monthly_revenue.png)
+
+![All customers with no orders](screenshots/customers_no_orders.png)
 
 ## How to run it
 
